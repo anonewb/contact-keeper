@@ -93,6 +93,7 @@ const ContactForm = () => {
           type='submit'
           value={current ? 'Update Contact' : 'Add Contact'}
           className='btn btn-primary btn-block'
+          autoComplete='true'
         />
       </div>
       {current && (
