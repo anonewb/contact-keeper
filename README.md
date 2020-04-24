@@ -23,9 +23,7 @@ npm run server  # Express API Only :5000
 npm run client  # React Client Only :3000
 ```
 
-APIs can be found are as follows with documented endpoints:
-
-This is a Node/Express/MongoDB REST API for contacts that uses JWT authentication. All contact endpoints are protected and each registered user has their own contacts.
+Below is a Node/Express/MongoDB REST API for contacts that uses JWT authentication. All contact endpoints are protected and each registered user has their own contacts.
 
 ## Getting Started
 
