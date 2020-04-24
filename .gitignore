@@ -2,6 +2,8 @@
 
 # dependencies
 node_modules/
+/config/production.json
+/config/default.json
 /.pnp
 .pnp.js
 
